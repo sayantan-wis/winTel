@@ -290,6 +290,17 @@ header nav ul li a:focus{
   color: #fff;
 }
 
+.hoverText{
+  color: #000;
+}
+
+.hoverText:hover{
+  color: white;
+}
+
+
+
+
 /* Loader */
 .loader {
   height: 32px;
@@ -825,10 +836,10 @@ section{
   background: #f3f3f3;
   padding: 30px;
   border-radius: 12px;
-  -webkit-border-radius: 12px;
+  -webkit-border-radius: 12x;
   -moz-border-radius: 12px;
   -ms-border-radius: 12px;
-  -o-border-radius: 12px;
+  -o-border-radius:12px;
   margin-top: 30px;
   transition: all ease 0.3s;
   -moz-transition: all ease 0.3s;
